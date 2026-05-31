@@ -59,6 +59,15 @@ My current work revolves around combining Machine Learning with modern infrastru
 
 ---
 
+## 🚩 Beyond Coding
+
+I believe the future belongs to engineers who can build intelligent systems at scale.
+My long-term mission is to master AI infrastructure and contribute to technologies that make advanced AI more accessible, reliable, and impactful in the real world.
+
+Every project I build is a step toward becoming an engineer capable of designing scalable systems that solve meaningful problems — not just models that work inside notebooks.
+
+---
+
 ## 📊 Engineering Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraj-dev\&show_icons=true\&theme=tokyonight)
