@@ -61,13 +61,13 @@ My current work revolves around combining Machine Learning with modern infrastru
 
 ## 📊 Engineering Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraj-dev\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraj-dev\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premraj-dev\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premraj-dev\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=premraj-dev\&theme=tokyonight)
 
 ---
-
-## ✨ Philosophy
 
 > “Scalable intelligence will define the next generation of engineering.”
 
