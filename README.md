@@ -1,38 +1,38 @@
 # Premraj Umap | AI/ML Infrastructure Engineer 🚀
 
-Developer focused on scalable AI systems, MLOps workflows, and Large Language Model infrastructure.
+Developer focused on scalable AI systems, MLOps pipelines, and Large Language Model infrastructure.
 Currently pursuing a B.Sc. in Artificial Intelligence & Machine Learning while building toward production-grade AI engineering expertise.
 
 🌍 Maharashtra, India
-👨‍💻 Exploring Cloud • MLOps • LLM Systems • AI Infrastructure
+☁️ Exploring Cloud • MLOps • LLM Systems • AI Infrastructure
 
 ---
 
-## ⚡ Engineering Focus
+## ⚡ Technical Focus
 
 I enjoy building intelligent systems that are scalable, automated, and deployment-ready.
-My current focus is on combining Machine Learning with modern infrastructure practices.
+My current work revolves around combining Machine Learning with modern infrastructure engineering.
 
-### 🔹 AI & Machine Learning
+### 🔹 Artificial Intelligence & ML
 
 * Machine Learning fundamentals
 * Deep Learning & Neural Networks
 * NLP and Large Language Models
-* Real-world AI project development
+* Real-world AI applications
 
 ### 🔹 MLOps & Infrastructure
 
-* CI/CD for ML workflows
-* Docker & Kubernetes basics
+* CI/CD workflows for ML systems
+* Docker & Kubernetes fundamentals
 * GitHub Actions automation
-* Scalable AI deployment concepts
+* Scalable deployment concepts
 
-### 🔹 Cloud & Tools
+### 🔹 Cloud Engineering
 
-* AWS Cloud fundamentals
-* Git & GitHub workflows
-* VS Code & Jupyter ecosystem
-* Linux and developer tooling
+* AWS cloud ecosystem
+* Linux & developer tooling
+* Git & collaborative workflows
+* Infrastructure fundamentals for AI systems
 
 ---
 
@@ -51,15 +51,15 @@ My current focus is on combining Machine Learning with modern infrastructure pra
 
 ## 🚀 Current Mission
 
-* Build impactful AI/ML projects
-* Learn production-grade MLOps
-* Master scalable LLM systems
+* Build production-ready AI projects
+* Learn scalable LLM deployment
+* Master MLOps workflows
 * Contribute to Open Source
 * Become an AI/ML Infrastructure Engineer
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraj-dev\&show_icons=true)
 
@@ -69,11 +69,8 @@ My current focus is on combining Machine Learning with modern infrastructure pra
 
 ## ✨ Philosophy
 
-> “Technology becomes powerful when intelligence meets scalability.”
+> “Scalable intelligence will define the next generation of engineering.”
 
 ---
 
-## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn URL
-* Email: Add your professional email
